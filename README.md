@@ -1,6 +1,5 @@
-npm install
+###Imp to install
 yarn install
-
 
 
 ### Screenshots 📸
