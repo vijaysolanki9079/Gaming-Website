@@ -10,7 +10,7 @@ Currently, two official plugins are available:
 npm install
 yarn install
 
-![Website Homepage]("C:\Users\vijay\OneDrive\Pictures\Screenshots\Screenshot 2024-11-10 041624.png")
+![Website Homepage](C:\Users\vijay\OneDrive\Pictures\Screenshots\Screenshot 2024-11-10 041624.png)
 
 This is a modern, interactive gaming website built using **React**. It allows users to explore various games, read their descriptions, and browse through ratings and categories. This project is designed to showcase my skills in React, HTML, CSS, and JavaScript.
 
