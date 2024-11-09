@@ -2,14 +2,13 @@
 yarn install
 
 
-### Screenshots 📸
+### Screenshots 
 
 **Homepage:**
-![Screenshot 2024-11-10 041624](https://github.com/user-attachments/assets/712ad81c-6247-4a1e-97c6-393ef2a516bd)
+📸![Uploading Screenshot 2024-11-10 041624.png…]()
 
 **Other Details Page:**
-![Screenshot 2024-11-10 041655](https://github.com/user-attachments/assets/712ad81c-6247-4a1e-97c6-393ef2a516bd)# React + Vite
-
+![Uploading Screenshot 2024-11-10 041655.png…]()
 
 
 
