@@ -1,15 +1,16 @@
 npm install
 yarn install
 
-## Screenshots 📸
 
-Here are some screenshots of the GameZone app:
 
-1. **Homepage**:
-   ![Homepage](C:\Users\vijay\OneDrive\Pictures\Screenshots\Screenshot 2024-11-10 041624.png)
+### Screenshots 📸
 
-2. **Other Details Page**:
-   ![Game Details](C:\Users\vijay\OneDrive\Pictures\Screenshots\Screenshot 2024-11-10 041655.png)
+**Homepage:**
+![Homepage](assets/images/Screenshot_2024-11-10_041624.png)
+
+**Other Details Page:**
+![Game Details](assets/images/Screenshot_2024-11-10_041655.png)
+
 
 This is a modern, interactive gaming website built using **React**. It allows users to explore various games, read their descriptions, and browse through ratings and categories. This project is designed to showcase my skills in React, HTML, CSS, and JavaScript.
 
