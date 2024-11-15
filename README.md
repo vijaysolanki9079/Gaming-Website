@@ -16,15 +16,6 @@ This is a modern, interactive gaming website built using **React**. It allows us
 
 ---
 
-## Table of Contents 📚
-1. [Technologies Used](#technologies-used)
-2. [Installation Instructions](#installation-instructions)
-3. [Usage](#usage)
-4. [Features](#features)
-5. [License](#license)
-
----
-
 ## Technologies Used ⚙️
 
 This project uses the following technologies:
