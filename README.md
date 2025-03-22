@@ -1,14 +1,17 @@
 ### Imp to do install yarn --> 
-yarn install
+   ```bash
+   yarn install
+   npm install
+   npm install @vitejs/plugin-react --save-dev
 
 
 ### Screenshots 
 
-**Homepage:**
+** Homepage:**
 ![](https://github.com/vijaysolanki9079/Gaming-Website/blob/main/Screenshot%202024-11-10%20041624.png)
 
 
-**Other Details Page:**
+** Other Details Page:**
 ![](https://github.com/vijaysolanki9079/Gaming-Website/blob/main/Screenshot%202024-11-10%20041655.png)
 
 
